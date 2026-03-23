@@ -1,1 +1,2 @@
-https://github.com/4mindavide-sys/slozhno-sosredotochitsya.git
+https://github.com/4mindavide-sys/slozhno-sosredotochitsya-ad.git
+
